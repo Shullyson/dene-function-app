@@ -19,7 +19,7 @@ REQUIRED_ENV_VARS = [
 ]
 
 # Hardcoded URL for the single document
-HARDCODED_DOCUMENT_URL = "https://stdeneprojectweu01.blob.core.windows.net/deneproject/wipo-pub-867-23-en-wipo-patent-drafting-manual.pdf?sp=r&st=2025-08-17T14:53:29Z&se=2025-08-26T23:08:29Z&spr=https&sv=2024-11-04&sr=b&sig=p2punFdcvALjB4SjdUHFAGR5ieNYOHG2qt5NRHD5dBI%3D"
+HARDCODED_DOCUMENT_URL = ""
 
 def load_system_prompt(path="system_prompt.md") -> str:
     try:
