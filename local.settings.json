@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=suldeneprojectweu01b6ff;AccountKey=IJChsVlfjHSxmCof8NddPXiZ+GP7sevPFfnHVzI7ga11Hi+ZKl7esuX7DXVGYmy2YN9INeSaGNWb+ASteKAvSQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AI_FOUND_ENDPOINT": "https://oai-deneproject-weu01.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2025-01-01-preview",
+    "AI_FOUND_API_KEY": "7JojA4EHDRKfEwB7OfFMMN4h9bKbo53wDAVtnApnegbmld0CFL6zJQQJ99BHAC5RqLJXJ3w3AAABACOG5ucI",
+    "SEARCH_ENDPOINT": "https://srch-deneproject-weu01.search.windows.net",
+    "SEARCH_INDEX_NAME": "rag-dennemeyer",
+    "SEARCH_KEY": "9q8EPlTTx6Nz705d0HmjWB3lRlSjtoPfUTNcfgiMCQAzSeC5MzHT"
+  }
+}
+ 
