@@ -1,8 +1,3 @@
-
-# Dennemeyer Azure Functions App
-
-This project is part of the Dennemeyer Exercise and provides a professional, serverless Azure Functions application for querying the WIPO Patent Drafting Manual using AI and Azure Cognitive Search.
-
 ## Overview
 
 - **Technology:** Python 3.10, Azure Functions v4
